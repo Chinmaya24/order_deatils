@@ -42,7 +42,7 @@ const OrderDetails = () => {
         <div style={styles.container}>
             <header style={styles.header}>
                 <h1 style={styles.title}>Order Management Dashboard</h1>
-                <p style={styles.subtitle}>GO_REPIREO Core Infrastructure</p>
+                <p style={styles.subtitle}>Core Infrastructure</p>
             </header>
 
             {/* Glassmorphism Form Card */}
